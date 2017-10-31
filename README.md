@@ -10,6 +10,8 @@ You will also need to register an account in order to get your `API Key`. This k
 
 ### MVP
 
+Start by putting your `$http` request in the controller. After you get everything working, try moving the request into a service. 
+
 - Allow users to get a random giphy by clicking a *RANDOM* button. Results should be displayed on the DOM.
 - Users should also be able to search for a giphy using a keyword. Results should be displayed on the DOM.
 
