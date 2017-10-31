@@ -1,0 +1,1 @@
+var giphyApp = angular.module('giphyApp', []);
