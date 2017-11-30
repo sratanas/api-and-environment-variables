@@ -1,6 +1,6 @@
 # Giphy API
 
-Today you will revisit the Giphy API and use Angular's `$http` service to create a fun application.
+Today you will use the Giphy API and use Angular's `$http` service to create a fun application.
 
 You'll need to read through the [Giphy documentation](https://developers.giphy.com/) to determine which endpoints you need to complete this app.
 
